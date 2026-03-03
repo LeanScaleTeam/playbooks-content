@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-03-03T04:39:50.362Z",
+  "generated": "2026-03-03T05:22:04.363Z",
   "playbooks": [
     {
       "slug": "growth-model",
@@ -26,7 +26,7 @@
         "complexity": "foundational"
       },
       "featured": true,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "445326aeb33f492bb24c4bb2dbdd87dc",
       "pages": [
         "advisory",
         "methodology",
@@ -57,7 +57,7 @@
         "complexity": "foundational"
       },
       "featured": true,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "7f8ba212e12e4c54867ed90dc0ac1b14",
       "pages": [
         "advisory",
         "methodology",
@@ -87,7 +87,7 @@
         "complexity": "intermediate"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "391ee5002e5d4104b09014008d490d81",
       "pages": [
         "advisory",
         "methodology",
@@ -115,7 +115,7 @@
         "complexity": "foundational"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "e15a47319254416998dd3c036241a600",
       "pages": [
         "advisory",
         "methodology",
@@ -407,7 +407,7 @@
         "complexity": "foundational"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": null,
       "pages": [
         "advisory",
         "methodology",
@@ -467,7 +467,7 @@
         "complexity": "intermediate"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "6811cd5959784986add7c0b6e12b2b10",
       "pages": [
         "advisory",
         "methodology",
@@ -587,7 +587,7 @@
         "complexity": "foundational"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": null,
       "pages": [
         "advisory",
         "methodology",
@@ -858,7 +858,7 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": null,
+      "loomEmbedId": "0379f98c5469444b924d19514203943d",
       "pages": [
         "advisory",
         "methodology",
@@ -1216,7 +1216,7 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": null,
+      "loomEmbedId": "0379f98c5469444b924d19514203943d",
       "pages": [
         "advisory",
         "methodology",
@@ -1275,7 +1275,7 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "0be3c833424d4cca8692ea381ccbeb12",
       "pages": [
         "advisory",
         "methodology",
@@ -1895,7 +1895,7 @@
         "complexity": "intermediate"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
+      "loomEmbedId": "441d3696dda24675a7a6749cdb558fd7",
       "pages": [
         "advisory",
         "methodology",
@@ -2047,7 +2047,7 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": null,
+      "loomEmbedId": "0379f98c5469444b924d19514203943d",
       "pages": [
         "advisory",
         "methodology",
@@ -2078,7 +2078,7 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": null,
+      "loomEmbedId": "0379f98c5469444b924d19514203943d",
       "pages": [
         "advisory",
         "methodology",
@@ -2109,7 +2109,7 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": null,
+      "loomEmbedId": "0379f98c5469444b924d19514203943d",
       "pages": [
         "advisory",
         "methodology",

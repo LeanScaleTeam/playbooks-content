@@ -2,8 +2,6 @@
 
 Reference guide for the formulas, benchmarks, and concepts underlying the Growth Model.
 
----
-
 ## How This File Works
 
 This document covers the core concepts, frameworks, and calculations behind Growth Model. It provides the methodological foundation — the "how it works" behind the execution steps.

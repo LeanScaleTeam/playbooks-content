@@ -2,8 +2,6 @@
 
 Growth Model - Integrated Revenue Planning and Capacity Modeling
 
----
-
 ## 1) Project Overview
 
 ### What is the name of this project?
@@ -452,7 +450,7 @@ Common objections you'll hear during Growth Model scoping, with brief reframes:
 - All stakeholders can articulate their quarterly targets
 - Hiring plan approved and recruiting initiated
 - Marketing budget allocated by channel
-- Tracking dashboard configured
+- Tracking dashboard or Vasco instance configured
 
 **Lagging Indicators (Quarter 2-4 post-plan):**
 
