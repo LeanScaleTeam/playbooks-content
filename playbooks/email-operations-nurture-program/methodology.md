@@ -1,3 +1,3 @@
-# Email Operations: Nurture Program — Methodology
+# Email Operations Nurture Program: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

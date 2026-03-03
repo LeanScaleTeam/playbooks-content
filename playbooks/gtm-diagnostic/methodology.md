@@ -1,3 +1,3 @@
-# GTM Diagnostic — Methodology
+# GTM Diagnostic: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

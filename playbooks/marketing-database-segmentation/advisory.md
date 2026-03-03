@@ -1,3 +1,3 @@
-# Marketing Database Segmentation — Advisory
+# Marketing Database Segmentation: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

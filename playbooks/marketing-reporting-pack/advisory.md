@@ -1,3 +1,3 @@
-# Marketing Reporting Pack — Advisory
+# Marketing Reporting Pack: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

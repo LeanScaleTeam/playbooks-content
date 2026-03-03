@@ -1,0 +1,9 @@
+{
+  "slug": "metering",
+  "title": "Metering",
+  "tier": "core",
+  "description": "Implement usage metering for consumption-based pricing.",
+  "status": "published",
+  "competencyIds": [],
+  "loomEmbedId": null
+}

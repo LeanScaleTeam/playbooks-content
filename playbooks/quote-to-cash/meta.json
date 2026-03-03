@@ -1,9 +1,9 @@
 {
   "slug": "quote-to-cash",
   "title": "Quote to Cash",
-  "tier": "core",
+  "tier": "extended",
   "description": "Optimize quote-to-cash process end-to-end.",
-  "status": "published",
+  "status": "stub",
   "competencyIds": [],
-  "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09"
+  "loomEmbedId": null
 }

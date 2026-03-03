@@ -1,3 +1,3 @@
-# Opportunity Management UX Improvements — Implementation
+# Opportunity Management UX Improvements: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

@@ -1,3 +1,3 @@
-# Event Operations: Lead List Intake Process — Advisory
+# Event Operations Lead List Intake Process: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

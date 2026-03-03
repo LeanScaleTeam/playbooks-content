@@ -1,3 +1,3 @@
-# Revenue Intelligence Process — Advisory
+# Revenue Intelligence Process: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

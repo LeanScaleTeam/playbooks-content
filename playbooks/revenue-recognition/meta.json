@@ -1,9 +1,9 @@
 {
   "slug": "revenue-recognition",
   "title": "Revenue Recognition",
-  "tier": "extended",
+  "tier": "core",
   "description": "Implement revenue recognition processes and reporting.",
-  "status": "stub",
+  "status": "published",
   "competencyIds": [],
   "loomEmbedId": null
 }

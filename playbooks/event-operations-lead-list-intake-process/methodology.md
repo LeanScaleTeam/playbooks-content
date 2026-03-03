@@ -1,3 +1,3 @@
-# Event Operations: Lead List Intake Process — Methodology
+# Event Operations Lead List Intake Process: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

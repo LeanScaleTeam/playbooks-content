@@ -1,3 +1,3 @@
-# Opportunity Management UX Improvements — Advisory
+# Opportunity Management UX Improvements: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

@@ -1,3 +1,3 @@
-# Revenue Recognition — Advisory
+# RevRec: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

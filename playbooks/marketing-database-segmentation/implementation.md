@@ -1,3 +1,3 @@
-# Marketing Database Segmentation — Implementation
+# Marketing Database Segmentation: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

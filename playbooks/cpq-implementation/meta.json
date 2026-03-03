@@ -1,9 +1,9 @@
 {
   "slug": "cpq-implementation",
   "title": "CPQ Implementation",
-  "tier": "extended",
+  "tier": "core",
   "description": "Implement Configure-Price-Quote solution.",
-  "status": "stub",
+  "status": "published",
   "competencyIds": [],
   "loomEmbedId": null
 }

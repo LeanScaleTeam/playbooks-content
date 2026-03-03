@@ -3,7 +3,7 @@
   "title": "CRM-ERP Integration",
   "tier": "extended",
   "description": "Integrate CRM with ERP for revenue operations.",
-  "status": "stub",
+  "status": "published",
   "competencyIds": [
     "SY-7"
   ],

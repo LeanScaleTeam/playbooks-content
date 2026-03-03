@@ -1,3 +1,3 @@
-# Revenue Intelligence Process — Methodology
+# Revenue Intelligence Process: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

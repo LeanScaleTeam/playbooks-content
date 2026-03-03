@@ -1,3 +1,3 @@
-# Marketing to Sales Handoff and SLA Tracking — Methodology
+# Marketing to Sales Handoff and SLA Tracking: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

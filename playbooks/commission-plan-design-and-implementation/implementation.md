@@ -1,3 +1,3 @@
-# Commission Plan Design and Implementation — Implementation
+# Commission Plan Design and Implementation: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

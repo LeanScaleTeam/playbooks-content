@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-02-26T20:18:05.107Z",
+  "generated": "2026-03-03T04:39:50.362Z",
   "playbooks": [
     {
       "slug": "growth-model",
@@ -839,8 +839,8 @@
       "numericId": "29",
       "title": "CPQ Implementation",
       "description": "Implement Configure-Price-Quote solution.",
-      "tier": "extended",
-      "status": "stub",
+      "tier": "core",
+      "status": "published",
       "tags": {
         "function": [
           "sales",
@@ -859,7 +859,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "sales-engagement-platform",
@@ -1193,8 +1197,8 @@
       "numericId": "41",
       "title": "Revenue Recognition",
       "description": "Implement revenue recognition processes and reporting.",
-      "tier": "extended",
-      "status": "stub",
+      "tier": "core",
+      "status": "published",
       "tags": {
         "function": [
           "finance",
@@ -1213,7 +1217,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "arr-reporting",
@@ -1519,7 +1527,7 @@
       "title": "Renewal Management",
       "description": "Implement structured renewal process and playbooks.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "cs",
@@ -1538,7 +1546,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "email-operations-nurture-program",
@@ -1546,7 +1558,7 @@
       "title": "Email Operations: Nurture Program",
       "description": "Build automated email nurture programs.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing"
@@ -1563,7 +1575,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "marketing-database-segmentation",
@@ -1571,7 +1587,7 @@
       "title": "Marketing Database Segmentation",
       "description": "Build marketing database segmentation strategy.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing"
@@ -1588,7 +1604,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "marketing-reporting-pack",
@@ -1596,7 +1616,7 @@
       "title": "Marketing Reporting Pack",
       "description": "Build marketing performance reporting package.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing"
@@ -1614,7 +1634,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "email-operations-subscription-and-compliance",
@@ -1622,7 +1646,7 @@
       "title": "Email Operations: Subscription and Compliance",
       "description": "Implement email preference center and compliance.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing"
@@ -1638,7 +1662,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "email-operations-templates-and-build-process",
@@ -1646,7 +1674,7 @@
       "title": "Email Operations: Templates and Build Process",
       "description": "Standardize email templates and build process.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing"
@@ -1662,7 +1690,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "event-operations-lead-list-intake-process",
@@ -1670,7 +1702,7 @@
       "title": "Event Operations: Lead List Intake Process",
       "description": "Standardize event lead list processing.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing"
@@ -1687,7 +1719,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "commission-plan-design-and-implementation",
@@ -1695,7 +1731,7 @@
       "title": "Commission Plan Design and Implementation",
       "description": "Design sales compensation and commission plans.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "sales",
@@ -1714,7 +1750,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "commission-tool-implementation",
@@ -1722,7 +1762,7 @@
       "title": "Commission Tool Implementation",
       "description": "Implement commission calculation and tracking tool.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "sales",
@@ -1740,15 +1780,19 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "quote-to-cash",
       "numericId": "61",
       "title": "Quote to Cash",
       "description": "Optimize quote-to-cash process end-to-end.",
-      "tier": "core",
-      "status": "published",
+      "tier": "extended",
+      "status": "stub",
       "tags": {
         "function": [
           "sales",
@@ -1767,12 +1811,8 @@
         "complexity": "advanced"
       },
       "featured": false,
-      "loomEmbedId": "dcbcfbcb84fd4c0dae37cf82adf4af09",
-      "pages": [
-        "advisory",
-        "methodology",
-        "implementation"
-      ]
+      "loomEmbedId": null,
+      "pages": []
     },
     {
       "slug": "marketing-to-sales-handoff-and-sla-tracking",
@@ -1780,7 +1820,7 @@
       "title": "Marketing to Sales Handoff and SLA Tracking",
       "description": "Define MQL handoff process and track SLA compliance.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "marketing",
@@ -1799,7 +1839,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "ai-automated-inbound",
@@ -1864,7 +1908,7 @@
       "title": "CRM-ERP Integration",
       "description": "Integrate CRM with ERP for revenue operations.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "revops",
@@ -1882,7 +1926,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "gtm-diagnostic",
@@ -1890,7 +1938,7 @@
       "title": "GTM Diagnostic",
       "description": "Comprehensive GTM health assessment and roadmap.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "revops"
@@ -1906,7 +1954,11 @@
       },
       "featured": true,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "revenue-intelligence-process",
@@ -1914,7 +1966,7 @@
       "title": "Revenue Intelligence Process",
       "description": "Implement revenue intelligence and deal insights.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "sales",
@@ -1933,7 +1985,11 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     },
     {
       "slug": "opportunity-management-ux-improvements",
@@ -1941,7 +1997,7 @@
       "title": "Opportunity Management UX Improvements",
       "description": "Optimize CRM opportunity management experience.",
       "tier": "extended",
-      "status": "stub",
+      "status": "published",
       "tags": {
         "function": [
           "sales",
@@ -1960,7 +2016,105 @@
       },
       "featured": false,
       "loomEmbedId": null,
-      "pages": []
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
+    },
+    {
+      "slug": "pricing-and-packaging",
+      "numericId": "69",
+      "title": "Pricing and Packaging",
+      "description": "Design and implement pricing models and packaging strategy.",
+      "tier": "core",
+      "status": "published",
+      "tags": {
+        "function": [
+          "revops",
+          "finance"
+        ],
+        "team": [
+          "leadership"
+        ],
+        "outcome": [
+          "efficiency",
+          "visibility"
+        ],
+        "metric": [
+          "arr"
+        ],
+        "complexity": "advanced"
+      },
+      "featured": false,
+      "loomEmbedId": null,
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
+    },
+    {
+      "slug": "billing",
+      "numericId": "70",
+      "title": "Billing",
+      "description": "Implement billing processes and systems.",
+      "tier": "core",
+      "status": "published",
+      "tags": {
+        "function": [
+          "finance",
+          "revops"
+        ],
+        "team": [
+          "revops-team"
+        ],
+        "outcome": [
+          "efficiency"
+        ],
+        "metric": [
+          "arr"
+        ],
+        "complexity": "advanced"
+      },
+      "featured": false,
+      "loomEmbedId": null,
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
+    },
+    {
+      "slug": "metering",
+      "numericId": "71",
+      "title": "Metering",
+      "description": "Implement usage metering for consumption-based pricing.",
+      "tier": "core",
+      "status": "published",
+      "tags": {
+        "function": [
+          "revops",
+          "finance"
+        ],
+        "team": [
+          "revops-team"
+        ],
+        "outcome": [
+          "visibility"
+        ],
+        "metric": [
+          "arr"
+        ],
+        "complexity": "advanced"
+      },
+      "featured": false,
+      "loomEmbedId": null,
+      "pages": [
+        "advisory",
+        "methodology",
+        "implementation"
+      ]
     }
   ]
 }

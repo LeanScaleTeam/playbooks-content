@@ -1,3 +1,3 @@
-# Email Operations: Subscription and Compliance — Advisory
+# Email Operations Subscription and Compliance: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

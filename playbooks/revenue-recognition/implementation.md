@@ -1,3 +1,3 @@
-# Revenue Recognition — Implementation
+# RevRec: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

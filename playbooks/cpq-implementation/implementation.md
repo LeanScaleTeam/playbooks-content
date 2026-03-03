@@ -1,3 +1,3 @@
-# CPQ Implementation — Implementation
+# CPQ Implementation: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

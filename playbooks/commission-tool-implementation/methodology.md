@@ -1,3 +1,3 @@
-# Commission Tool Implementation — Methodology
+# Commission Tool Implementation: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

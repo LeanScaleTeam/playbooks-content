@@ -1,3 +1,3 @@
-# Revenue Recognition — Methodology
+# RevRec: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

@@ -1,3 +1,3 @@
-# Email Operations: Subscription and Compliance — Implementation
+# Email Operations Subscription and Compliance: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

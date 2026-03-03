@@ -1,0 +1,9 @@
+{
+  "slug": "billing",
+  "title": "Billing",
+  "tier": "core",
+  "description": "Implement billing processes and systems.",
+  "status": "published",
+  "competencyIds": [],
+  "loomEmbedId": null
+}

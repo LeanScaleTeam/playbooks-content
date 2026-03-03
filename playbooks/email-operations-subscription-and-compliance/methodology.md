@@ -1,3 +1,3 @@
-# Email Operations: Subscription and Compliance — Methodology
+# Email Operations Subscription and Compliance: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

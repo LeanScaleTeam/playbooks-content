@@ -1,3 +1,3 @@
-# CPQ Implementation — Methodology
+# CPQ Implementation: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

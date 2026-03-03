@@ -1,3 +1,3 @@
-# Email Operations: Templates and Build Process — Advisory
+# Email Operations Templates and Build Process: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

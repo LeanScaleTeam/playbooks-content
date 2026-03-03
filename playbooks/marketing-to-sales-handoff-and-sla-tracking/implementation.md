@@ -1,3 +1,3 @@
-# Marketing to Sales Handoff and SLA Tracking — Implementation
+# Marketing to Sales Handoff and SLA Tracking: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

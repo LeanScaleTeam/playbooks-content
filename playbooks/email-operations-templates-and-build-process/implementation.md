@@ -1,3 +1,3 @@
-# Email Operations: Templates and Build Process — Implementation
+# Email Operations Templates and Build Process: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

@@ -1,3 +1,3 @@
-# Marketing Reporting Pack — Methodology
+# Marketing Reporting Pack: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

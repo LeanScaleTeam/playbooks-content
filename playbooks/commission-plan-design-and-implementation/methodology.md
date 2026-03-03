@@ -1,3 +1,3 @@
-# Commission Plan Design and Implementation — Methodology
+# Commission Plan Design and Implementation: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

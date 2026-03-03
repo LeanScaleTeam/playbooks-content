@@ -1,3 +1,3 @@
-# Marketing Reporting Pack — Implementation
+# Marketing Reporting Pack: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

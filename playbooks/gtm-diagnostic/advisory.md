@@ -1,3 +1,3 @@
-# GTM Diagnostic — Advisory
+# GTM Diagnostic: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

@@ -1,3 +1,3 @@
-# GTM Diagnostic — Implementation
+# GTM Diagnostic: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

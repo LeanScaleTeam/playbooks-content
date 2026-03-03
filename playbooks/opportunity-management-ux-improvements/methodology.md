@@ -1,3 +1,3 @@
-# Opportunity Management UX Improvements — Methodology
+# Opportunity Management UX Improvements: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

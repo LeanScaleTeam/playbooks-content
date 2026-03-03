@@ -1,3 +1,3 @@
-# Marketing to Sales Handoff and SLA Tracking — Advisory
+# Marketing to Sales Handoff and SLA Tracking: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

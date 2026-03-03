@@ -1,3 +1,3 @@
-# CPQ Implementation — Advisory
+# CPQ Implementation: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*

@@ -1,3 +1,3 @@
-# Revenue Intelligence Process — Implementation
+# Revenue Intelligence Process: Implementation
 
-> Content coming soon.
+*This playbook is coming soon.*

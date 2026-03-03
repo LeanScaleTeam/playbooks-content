@@ -1,3 +1,3 @@
-# Marketing Database Segmentation — Methodology
+# Marketing Database Segmentation: Methodology
 
-> Content coming soon.
+*This playbook is coming soon.*

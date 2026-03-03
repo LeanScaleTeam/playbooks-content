@@ -1,3 +1,3 @@
-# Email Operations: Nurture Program — Advisory
+# Email Operations Nurture Program: Advisory
 
-> Content coming soon.
+*This playbook is coming soon.*
